@@ -94,13 +94,14 @@ id-2 {
 .img-1 {
     width: 500px;
     height: 500px;
+    margin-left: 100px;
 }
 
 .button-1 {
     height: 40px;
     width: 100px;
     border-radius: 20px;
-    background-color: rgb(228, 22, 57);
+    background-color: rgba(236, 9, 47, 0.622);
 }
 
 .button-2 {
@@ -108,4 +109,61 @@ id-2 {
     width: 100px;
     border-radius: 20px;
     background-color: aqua;
+}
+
+/* second section */
+
+.class-9 {
+    display: flex;
+    background-color: gainsboro;
+}
+
+.img-2 {
+    width: 600px;
+    height: 300px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.class-10 {
+    margin-right: 150px;
+    text-align: right;
+}
+
+.button-3 {
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: rgba(236, 9, 47, 0.622);
+}
+
+.h3 {
+    color: rgb(60, 55, 55);
+}
+
+/* third section */
+
+.class-12 {
+    text-align: center;
+}
+
+.h-1 {
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+.class-13 {
+    display: flex;
+    margin-left: 150px;
+    gap: 15px;
+}
+
+/* .class-14 {
+    height: 400px;
+    width: 300px;
+} */
+
+#img-3 {
+    height: 300px;
+    width: 250px;
 }
