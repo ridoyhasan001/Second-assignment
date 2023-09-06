@@ -1,0 +1,111 @@
+/* header seaction */
+
+.class-1 {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    width: 100%;
+
+
+}
+
+.class-2 {
+    display: flex;
+    font-size: 30px;
+    padding: 0 150px;
+    gap: 20px;
+}
+
+#icon-1 {
+    margin-top: 40px;
+    color: rgb(228, 11, 83);
+}
+
+.class-3,
+.class-4,
+.class-5 {
+    display: flex;
+    gap: 20px;
+}
+
+.class-3 {
+    margin: 30px 200px;
+
+
+}
+
+#icon-2 {
+    margin-top: 15px;
+    color: red;
+    font-size: 20px;
+}
+
+#icon-3 {
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.class-5 {
+    padding-left: 40px;
+}
+
+.class-g {
+    color: rgb(228, 11, 83);
+
+}
+
+.class-5:hover {
+    height: 40px;
+    width: 200px;
+    background-color: gainsboro;
+    border-radius: 20px;
+    margin-left: none;
+}
+
+id-2 {
+    color: red;
+}
+
+/* main section */
+/* first seaction */
+
+.class-6 {
+    display: flex;
+    background-color: gainsboro;
+}
+
+.class-7 {
+    display: flex;
+}
+
+#icon-4 {
+    margin-top: 15px;
+    color: rgb(228, 11, 83);
+}
+
+#icon-5 {
+    margin-top: 15px;
+}
+
+.class-8 {
+    margin: 100px 150px 80px 200px;
+}
+
+.img-1 {
+    width: 500px;
+    height: 500px;
+}
+
+.button-1 {
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: rgb(228, 22, 57);
+}
+
+.button-2 {
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: aqua;
+}
