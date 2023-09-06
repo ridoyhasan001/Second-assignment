@@ -301,3 +301,139 @@ id-2 {
     background-color: rgb(30, 33, 34);
     height: 400px;
 }
+
+/* mobile section */
+
+@media screen and (max-width: 576px) {
+    .class-1 {
+        width: 100%;
+        height: 400px;
+        flex-direction: column;
+        border: 2px solid red;
+    }
+
+    .class-2 {
+        justify-content: center;
+        text-align: center;
+        padding-top: 100px 0;
+    }
+
+    .class-4 {
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        margin-bottom: 0;
+    }
+
+    .class-3 {
+        flex-direction: column;
+        padding-top: 0;
+    }
+
+    .class-5 {
+        justify-content: center;
+        text-align: center;
+        margin-bottom: 100px;
+    }
+
+    /* second section */
+
+    .class-6 {
+        flex-direction: column-reverse;
+
+
+    }
+
+    /* .class-8 {
+        text-align: center;
+    } */
+
+
+    .img-1 {
+        width: 400px;
+        height: 400px;
+        position: relative;
+        right: 40px;
+    }
+
+    /* third section */
+
+    .class-9 {
+        flex-direction: column;
+    }
+
+    .img-2 {
+        width: 400px;
+        height: 400px;
+        position: relative;
+        right: 80px;
+    }
+
+    .class-10 {
+        justify-content: center;
+        text-align: center;
+        padding-left: 150px;
+    }
+
+    /* fourth section  */
+
+    .class-13 {
+        flex-direction: column;
+    }
+
+    /* sectio five */
+
+    .class-15 {
+        flex-direction: column;
+        height: 600px;
+    }
+
+    .class-16 {
+        position: relative;
+        top: 300px;
+        right: 150px;
+    }
+
+    .class-18 {
+        height: 800px;
+    }
+
+    #img-5 {
+        position: relative;
+        right: 110px;
+        bottom: 400px;
+    }
+
+    .img-6 {
+        margin-right: 200px;
+    }
+
+    .class-20 {
+        flex-direction: column;
+    }
+
+    .class-19 {
+        height: 500px;
+
+    }
+
+    /* .class23 {
+        flex-direction: column;
+    } */
+
+    /* .class-24 {
+        flex-direction: column;
+    } */
+
+    /* .class-25 {
+        flex-direction: column;
+    } */
+
+    .class-27 {
+        width: 100%;
+        justify-content: center;
+        text-align: center;
+    }
+
+
+}
